@@ -1,0 +1,125 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Shift Start",
+    "subtitle": "Leading Development Team in the Arab World",
+    "description": "We are a team of creative developers and professional designers, transforming your ideas into innovative digital solutions and high-quality applications",
+    "cta": "Start Your Project Now",
+    "learn_more": "Learn More"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "A Team Specialized in Development and Innovation",
+    "description": "Shift Start is an advanced development team that combines expertise and creativity to provide customized technical solutions that meet our clients' needs and achieve their digital goals.",
+    "mission": "Our Mission",
+    "mission_text": "To empower companies and individuals to achieve digital success through innovative and high-quality technical solutions",
+    "vision": "Our Vision",
+    "vision_text": "To be the first choice for technical development in the Arab region",
+    "values": "Our Values",
+    "values_text": "Quality, innovation, and commitment to delivery deadlines"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for all your technical needs",
+    "web_development": {
+      "title": "Web Development",
+      "description": "Fast and responsive websites using the latest technologies"
+    },
+    "mobile_development": {
+      "title": "Mobile App Development",
+      "description": "Native and cross-platform applications for iOS and Android"
+    },
+    "ui_ux_design": {
+      "title": "UI/UX Design",
+      "description": "Modern and user-friendly designs that enhance user experience"
+    },
+    "backend_development": {
+      "title": "Backend Development",
+      "description": "Powerful and secure backend systems using latest technologies"
+    },
+    "cloud_solutions": {
+      "title": "Cloud Solutions",
+      "description": "Deployment and management of applications on cloud platforms"
+    },
+    "consulting": {
+      "title": "Technical Consulting",
+      "description": "Guidance and direction in choosing the best technical solutions"
+    }
+  },
+  "portfolio": {
+    "title": "Our Work",
+    "subtitle": "Projects we're proud to have accomplished",
+    "view_project": "View Project",
+    "technologies": "Technologies Used"
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "The experts behind our success",
+    "roles": {
+      "ceo": "CEO",
+      "lead_developer": "Lead Developer",
+      "ui_ux_designer": "UI/UX Designer",
+      "backend_developer": "Backend Developer",
+      "mobile_developer": "Mobile Developer",
+      "project_manager": "Project Manager"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let us turn your idea into reality",
+    "get_in_touch": "Get In Touch",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "project_type": "Project Type",
+      "message": "Your Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "working_hours": "Working Hours"
+    }
+  },
+  "footer": {
+    "description": "Shift Start - Leading development team in providing innovative technical solutions",
+    "quick_links": "Quick Links",
+    "services_footer": "Our Services",
+    "social_media": "Follow Us",
+    "copyright": "All rights reserved © 2024 Shift Start"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "success": "Success",
+    "read_more": "Read More",
+    "get_started": "Get Started",
+    "learn_more": "Learn More",
+    "view_all": "View All",
+    "back_to_top": "Back to Top"
+  },
+  "seo": {
+    "home": {
+      "title": "Shift Start - Leading Development Team | Web & App Development",
+      "description": "Shift Start is a professional development team specialized in web and mobile app development. We provide innovative technical solutions and modern designs to achieve your digital project success."
+    },
+    "about": {
+      "title": "About Us - Shift Start | Professional Development Team",
+      "description": "Learn about Shift Start team, a group of professional developers and designers who transform ideas into innovative digital solutions."
+    },
+    "services": {
+      "title": "Our Services - Web & App Development | Shift Start",
+      "description": "Comprehensive services in web development, mobile applications, UI/UX design, and cloud solutions from Shift Start team."
+    }
+  }
+}
